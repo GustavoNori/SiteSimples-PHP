@@ -20,7 +20,7 @@
           </a>
           <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
             <li>
-              <a href="#" class="nav-link text-white">Home</a>
+              <a href="#" class="nav-link text-white">Homer Simpsiom</a>
             </li>
             <li>
               <a href="#" class="nav-link text-white">Dashboard</a>
